@@ -1,0 +1,130 @@
+== The symphonies ==
+
+{| class="wikitable sortable"
+!Number!!Key!!K. number!!Year!!Incipit
+|- align=center
+|1||[[E-flat major|E{{Music|b}} major]]||{{sort|1=016|2=[[Symphony No. 1 (Mozart)|K. 16]]}}||1764||[[File:Mozart SY01 Incipit.gif|600px]]<br />{{NMA|95|3|96|5|Symphony No. 1}}
+|- align=center
+|2<br />(spurious)<ref>Attributed to [[Leopold Mozart]]</ref>||[[B-flat major|B{{Music|b}} major]]||{{sort|1=627|2=[[Symphony No. 2 (Mozart)|K. 17/Anh.C 11.02]]}}||1765?||-<br />{{IMSLP2|work=Symphony,_Eisen_B-flat_6_(Mozart,_Leopold)|cname=Symphony No. 2}}
+|- align=center
+|3<br />(spurious)<ref>Written by [[Carl Friedrich Abel]]</ref>||[[E-flat major|E{{Music|b}} major]]||{{sort|1=628|2=[[Symphony No. 3 (Mozart)|K. 18/Anh.A 51]]}}||1767?||-<br />{{IMSLP2|work=Symphony_in E-flat_major,_WK_18_(Abel,_Carl_Friedrich)|cname=Symphony No. 3}}
+|- align=center
+|4||[[D major]]||{{sort|1=019|2=[[Symphony No. 4 (Mozart)|K. 19]]}}||1765||[[File:Mozart SY04 Incipit.gif|600px]]<br />{{NMA|95|21|96|22|Symphony No. 4}}
+|- align=center
+|5||[[B-flat major|B{{Music|b}} major]]||{{sort|1=022|2=[[Symphony No. 5 (Mozart)|K. 22]]}}||1765||[[File:Mozart SY05 Incipit.gif|600px]]<br />{{NMA|95|49|96|28|Symphony No. 5}}
+|- align=center
+|6||[[F major]]||{{sort|1=043|2=[[Symphony No. 6 (Mozart)|K. 43]]}}||1767||[[File:Mozart SY06 Incipit.gif|600px]]<br />{{NMA|95|79|96|33|Symphony No. 6}}
+|- align=center
+|7||[[D major]]||{{sort|1=044|2=[[Symphony No. 7 (Mozart)|K. 45]]}}||1768||[[File:Mozart SY07 Incipit.gif|600px]]<br />{{NMA|95|95|96|42|Symphony No. 7}}
+|- align=center
+|8||[[D major]]||{{sort|1=048|2=[[Symphony No. 8 (Mozart)|K. 48]]}}||1768||[[File:Mozart SY08 Incipit.gif|600px]]<br />{{NMA|95|143|96|54|Symphony No. 8}}
+|- align=center
+|9||[[C major]]||{{sort|1=077|2=[[Symphony No. 9 (Mozart)|K. 73/75a]]}}||1769-70||[[File:Mozart SY09 Incipit.gif|600px]]<br />{{NMA|95|163|96|57|Symphony No. 9}}
+|- align=center
+|10||[[G major]]||{{sort|1=074|2=[[Symphony No. 10 (Mozart)|K. 74]]}}||1770||[[File:Mozart SY10 Incipit.gif|600px]]<br />{{NMA|97|67|98|13|Symphony No. 10}}
+|- align=center
+|11<ref>Sometimes attributed to [[Leopold Mozart]] or [[Carl Ditters von Dittersdorf]]</ref><br />(doubtful)||[[D major]]||{{sort|1=073|2=[[Symphony No. 11 (Mozart)|K. 84/73q]]}}||1770||[[File:Mozart SY11 Incipit.gif|600px]]<br />{{NMA|97|47|98|10|Symphony No. 11}}
+|- align=center
+|12||[[G major]]||{{sort|1=078|2=[[Symphony No. 12 (Mozart)|K. 110/75b]]}}||1771||[[File:Mozart SY12 Incipit.gif|600px]]<br />{{NMA|97|97|98|19|Symphony No. 12}}
+|- align=center
+|13||[[F major]]||{{sort|1=112|2=[[Symphony No. 13 (Mozart)|K. 112]]}}||1771||[[File:Mozart SY13 Incipit.gif|600px]]<br />{{NMA|97|151|98|26|Symphony No. 13}}
+|- align=center
+|14||[[A major]]||{{sort|1=114|2=[[Symphony No. 14 (Mozart)|K. 114]]}}||1771||[[File:Mozart SY14 Incipit.gif|600px]]<br />{{NMA|97|165|98|30|Symphony No. 14}}
+|- align=center
+|15||[[G major]]||{{sort|1=124|2=[[Symphony No. 15 (Mozart)|K. 124]]}}||1772||[[File:Mozart SY15 Incipit.gif|600px]]<br />{{NMA|97|183|98|34|Symphony No. 15}}
+|- align=center
+|16||[[C major]]||{{sort|1=128|2=[[Symphony No. 16 (Mozart)|K. 128]]}}||1772||[[File:Mozart SY16 Incipit.gif|600px]]<br />{{NMA|99|1|100|4|Symphony No. 16}}
+|- align=center
+|17||[[G major]]||{{sort|1=129|2=[[Symphony No. 17 (Mozart)|K. 129]]}}||1772||[[File:Mozart SY17 Incipit.gif|600px]]<br />{{NMA|99|15|100|7|Symphony No. 17}}
+|- align=center
+|18||[[F major]]||{{sort|1=130|2=[[Symphony No. 18 (Mozart)|K. 130]]}}||1772||[[File:Mozart SY18 Incipit.gif|600px]]<br />{{NMA|99|31|100|9|Symphony No. 18}}
+|- align=center
+|19||[[E-flat major|E{{Music|b}} major]]||{{sort|1=132|2=[[Symphony No. 19 (Mozart)|K. 132]]}}||1772||[[File:Mozart SY19 Incipit.gif|600px]]<br />{{NMA|99|52|100|13|Symphony No. 19}}
+|- align=center
+|20||[[D major]]||{{sort|1=133|2=[[Symphony No. 20 (Mozart)|K. 133]]}}||1772||[[File:Mozart SY20 Incipit.gif|600px]]<br />{{NMA|99|78|100|15|Symphony No. 20}}
+|- align=center
+|21||[[A major]]||{{sort|1=134|2=[[Symphony No. 21 (Mozart)|K. 134]]}}||1772||[[File:Mozart SY21 Incipit.gif|600px]]<br />{{NMA|99|102|100|18|Symphony No. 21}}
+|- align=center
+|22||[[C major]]||{{sort|1=162|2=[[Symphony No. 22 (Mozart)|K. 162]]}}||1773||[[File:Mozart SY22 Incipit.gif|600px]]<br />{{NMA|101|1|102|4|Symphony No. 22}}
+|- align=center
+|23||[[D major]]||{{sort|1=163|2=[[Symphony No. 23 (Mozart)|K. 181/162b]]}}||1773||[[File:Mozart SY23 Incipit.gif|600px]]<br />{{NMA|101|57|102|19|Symphony No. 23}}
+|- align=center
+|24||[[B-flat major|B{{Music|b}} major]]||{{sort|1=173|2=[[Symphony No. 24 (Mozart)|K. 182/173dA]]}}||1773||[[File:Mozart SY24 Incipit.gif|600px]]<br />{{NMA|101|75|102|26|Symphony No. 24}}
+|- align=center
+|25<br />"Little G minor"||[[G minor]]||{{sort|1=174|2=[[Symphony No. 25 (Mozart)|K. 183/173dB]]}}||1773||[[File:Mozart SY25 Incipit.gif|600px]]<br />{{NMA|101|87|102|34|Symphony No. 25}}
+|- align=center
+|26||[[E-flat major|E{{Music|b}} major]]||{{sort|1=160|2=[[Symphony No. 26 (Mozart)|K. 184/161a]]}}||1773||[[File:Mozart SY26 Incipit.gif|600px]]<br />{{NMA|101|15|102|10|Symphony No. 26}}
+|- align=center
+|27||[[G major]]||{{sort|1=161|2=[[Symphony No. 27 (Mozart)|K. 199/161b]]}}||1773||[[File:Mozart SY27 Incipit.gif|600px]]<br />{{NMA|101|37|102|14|Symphony No. 27}}
+|- align=center
+|28||[[C major]]||{{sort|1=189|2=[[Symphony No. 28 (Mozart)|K. 200/189k]]}}||1774||[[File:Mozart SY28 Incipit.gif|600px]]<br />{{NMA|101|107|102|42|Symphony No. 28}}
+|- align=center
+|29||[[A major]]||{{sort|1=186|2=[[Symphony No. 29 (Mozart)|K. 201/186a]]}}||1774||[[File:Mozart SY29 Incipit.gif|600px]]<br />{{NMA|103|1|104|6|Symphony No. 29}}
+|- align=center
+|30||[[D major]]||{{sort|1=187|2=[[Symphony No. 30 (Mozart)|K. 202/186b]]}}||1774||[[File:Mozart SY30 Incipit.gif|600px]]<br />{{NMA|103|26|104|17|Symphony No. 30}}
+|- align=center
+|31<br />"Paris"||[[D major]]||{{sort|1=300|2=[[Symphony No. 31 (Mozart)|K. 297/300a]]}}||1778||[[File:Mozart SY31 Incipit.gif|600px]]<br />{{NMA|103|57|104|36|Symphony No. 31}}
+|- align=center
+|32<br />"Overture in the Italian style"||[[G major]]||{{sort|1=318|2=[[Symphony No. 32 (Mozart)|K. 318]]}}||1779||[[File:Mozart SY32 Incipit.gif|600px]]<br />{{NMA|105|3|106|6|Symphony No. 32}}
+|- align=center
+|33||[[B-flat major|B{{Music|b}} major]]||{{sort|1=319|2=[[Symphony No. 33 (Mozart)|K. 319]]}}||1779||[[File:Mozart SY33 Incipit.gif|600px]]<br />{{NMA|105|23|106|17|Symphony No. 33}}
+|- align=center
+|34||[[C major]]||{{sort|1=338|2=[[Symphony No. 34 (Mozart)|K. 338]]}}||1780||[[File:Mozart SY34 Incipit.gif|600px]]<br />
+{{NMA|105|59|106|26|Symphony No. 34}}
+|- align=center
+|35<br />"Haffner"||[[D major]]||{{sort|1=385|2=[[Symphony No. 35 (Mozart)|K. 385]]}}||1782||[[File:Mozart SY35 Incipit.gif|600px]]<br />{{NMA|105|113|106|33|Symphony No. 35}}
+|- align=center
+|36<br />"Linz"||[[C major]]||{{sort|1=425|2=[[Symphony No. 36 (Mozart)|K. 425]]}}||1783||[[File:Mozart SY36 Incipit.gif|600px]]<br />{{NMA|109|3|110|5|Symphony No. 36}}
+|- align=center
+|37<ref>Only slow introduction is by Mozart, rest is by [[Michael Haydn]]</ref>||[[G major]]||{{sort|1=426|2=[[Symphony No. 37 (Mozart)|K. 444/(425a+Anh.A 53)]]}}||1783||[[File:Mozart SY37 Incipit.gif|600px]]<br />{{IMSLP2|work=Symphony_No.37_in_G_major,_K.444/425a_(Mozart,_Wolfgang_Amadeus)|cname=Symphony No. 37}}
+|- align=center
+|38<br />"Prague"||[[D major]]||{{sort|1=504|2=[[Symphony No. 38 (Mozart)|K. 504]]}}||1786||[[File:Mozart SY38 Incipit.gif|600px]]<br />{{NMA|109|63|110|31|Symphony No. 38}}
+|- align=center
+|39||[[E-flat major|E{{Music|b}} major]]||{{sort|1=543|2=[[Symphony No. 39 (Mozart)|K. 543]]}}||1788||[[File:Mozart SY39 Incipit.gif|600px]]<br />{{NMA|111|1|112|3|Symphony No. 39}}
+|- align=center
+|40<br />"Great G minor"<ref name="two versions" />||[[G minor]]||{{sort|1=550|2=[[Symphony No. 40 (Mozart)|K. 550]]}}||1788||[[File:Mozart SY40 Incipit.gif|600px]]<br />{{NMA|111|63|112|19|Symphony No. 40 (1st version)}}<br />{{NMA|111|125|112|19|Symphony No. 40 (2nd version)}}
+|- align=center
+|41<br />"Jupiter"||[[C major]]||{{sort|1=551|2=[[Symphony No. 41 (Mozart)|K. 551]]}}||1788||[[File:Mozart SY41 Incipit.gif|600px]]<br />{{NMA|111|187|112|44|Symphony No. 41}}
+|- align=center
+|GA 42<br />(doubtful)||[[F major]]||{{sort|1=076|2=[[Symphony, K. 75 (Mozart)|K. 75]]}}||1771||[[File:Mozart K75 Incipit.png|600px]]<br />{{NMA|95|83|98|17|Symphony, K. 75}}
+|- align=center
+|GA 43<br />(doubtful)||[[F major]]||{{sort|1=042|2=[[Symphony, K. 76 (Mozart)|K. 76/42a]]}}||1767||[[File:Mozart K76 Incipit.png|600px]]<br />{{NMA|95|63|96|30|Symphony, K. 76}}
+|- align=center
+|GA 44<br />(doubtful)||[[D major]]||{{sort|1=070|2=[[Symphony, K. 81 (Mozart)|K. 81/73l]]}}||1770||[[File:Mozart K81 Incipit.png|600px]]<br />{{NMA|97|3|98|5|Symphony, K. 81}}
+|- align=center
+|GA 45<br />(doubtful)||[[D major]]||{{sort|1=072|2=[[Symphony, K. 95 (Mozart)|K. 95/73n]]}}||1770||[[File:Mozart K95 Incipit.png|600px]]<br />{{NMA|97|33|98|9|Symphony, K. 95}}
+|- align=center
+|GA 46<br />(doubtful)||[[C major]]||{{sort|1=111|2=[[Symphony, K. 96 (Mozart)|K. 96/111b]]}}||1771||[[File:Mozart K96 Incipit.png|600px]]<br />{{NMA|97|133|98|25|Symphony, K. 96}}
+|- align=center
+|GA 47<br />(doubtful)||[[D major]]||{{sort|1=071|2=[[Symphony, K. 97 (Mozart)|K. 97/73m]]}}||1770||[[File:Mozart K97 Incipit.png|600px]]<br />{{NMA|97|15|98|7|Symphony, K. 97}}
+|- align=center
+|GA 48<ref>The first and second movements are the overture and No. 1 to the opera ''[[Ascanio in Alba]]'', K. 111. The third movement is the finale of the sinfonia (K. 120/111a) to ''Ascanio in Alba''.</ref><br />||[[D major]]||{{sort|1=110|2=[[Symphony, K. 111+120 (Mozart)|K. 111+(120/111a)]]}}||1771||-<br />{{NMA|97|115|98|23|Symphony, K. 111+120}}
+|- align=center
+|GA 50<ref>For a detailed explanation of the many Köchel numbers this symphony has see the article [http://www.mozartforum.com/Lore/article.php?id=495 K141a (formerly K126, K161, K163) "Il sogno di Scipione" Symphony in D] at the [http://www.mozartforum.com Mozart Forum] by Dennis Pajot.</ref>||[[D major]]||{{sort|1=141|2=[[Symphony, K. 161 (Mozart)|K. (126+163)/161/141a]]}}||1772||-<br>{{NMA|99|123|100|20|Symphony, K. 161}}
+|- align=center
+|GA 51<ref>The first and second movements together constitute the overture to the opera ''[[La finta giardiniera]]'', K. 196. The third movement is listed separately as K. 121/207a.</ref>||[[D major]]||{{sort|1=207|2=[[Symphony, K. 196+121 (Mozart)|K. 196+(121/207a)]]}}||1774-75||-<br />{{NMA|103|44|104|23|Symphony, K. 196+121}}
+|- align=center
+|GA 52<ref>First and second movements based on music from the opera ''[[Il re pastore]]'', K. 208. The third movement consists of newly composed material. The second movement is incomplete.</ref>||[[C major]]||{{sort|1=213|2=[[Symphony, K. 208+102 (Mozart)|K. 208+(102/213c)]]}}||1775||-<br />{{NMA|103|139|104|74|Symphony, K. 208+102}}
+|- align=center
+|GA 54<br />(doubtful)||[[B-flat major|B{{Music|b}} major]]||{{sort|1=075|2=[[Symphony, K. 74g (Mozart)|K. Anh. 216/74g/Anh.C 11.03]]}}||1771||-<br />{{NMA|222|37|222|86|Symphony, K. 74g}}
+|- align=center
+|GA 55<br />(doubtful)||[[B-flat major|B{{Music|b}} major]]||{{sort|1=046|2=[[Symphony, K. 45b (Mozart)|K. Anh. 214/45b]]}}||1768||[[File:Mozart K45b Incipit.png|600px]]<br />{{NMA|95|129|96|51|Symphony, K. 45b}}
+|- align=center
+|GA 56<ref>Sometimes also called GA 48.<!--APBrown's Symphonic Repertoire book, p. 327 lists it as GA 48, but p. 328 lists it as GA 56--></ref><br />(doubtful)||[[F major]]||{{sort|1=629|2=[[Symphony, K. 98 (Mozart)|K. 98/Anh.C 11.04]]}}||1771?||-<br />{{IMSLP2|work=Symphony_No.56_in_F_major,_K.98/Anh.C_11.04_(Mozart,_Wolfgang_Amadeus)|cname=Symphony, K. 98}}
+|- align=center
+|(no number)<br />(doubtful)<br />"Odense"||[[A minor]]||{{sort|1=630|2=[[Symphony, K. 16a (Mozart)|K. Anh. 220/16a]]}}||1765?||-<br />{{NMA|222|3|222|83|Symphony, K. 16a}}
+|- align=center
+|(no number)||[[F major]]||{{sort|1=018|2=[[Symphony, K. 19a (Mozart)|K. Anh. 223/19a]]}}||1765||[[File:Mozart K19a Incipit.png|600px]]<br />{{NMA|95|35|96|26|Symphony, K. 19a}}
+|- align=center
+|"Old Lambach"<ref name="two versions">Two versions</ref>||[[G major]]||{{sort|1=045|2=[[Symphony, K. 45a (Mozart)|K. Anh. 221/45a]]}}||1766-67||[[File:Mozart K45a Incipit.png|600px]]<br />{{NMA|95|189|96|64|Symphony, K. 45a (1st version)}}<br />{{NMA|95|115|96|49|Symphony, K. 45a (2nd version)}}
+|- align=center
+|(no number)||[[D major]]||{{sort|1=061|2=[[Symphony, K. 135+61h (Mozart)|K. 135+61h]]}}||1772?||-<br />No score available
+|- align=center
+|(no number)<ref name="serenade">Based on the serenade with the same K. number</ref><ref>After the [[Serenade No. 5 (Mozart)|Serenade No. 5]]</ref>||[[D major]]||{{sort|1=212|2=[[Serenade No. 5 (Mozart)|K. 204/213a]]}}||1775||-<br />{{NMA|107|1|108|5|Symphony, K. 204}}
+|- align=center
+|(no number)<ref name="serenade" /><ref>After the [[Serenade No. 7 (Mozart)|"Haffner" serenade]]</ref>||[[D major]]||{{sort|1=284|2=[[Serenade No. 7 (Mozart)|K. 250/284b]]}}||1776||-<br />{{NMA|107|31|108|25|Symphony, K. 250}}
+|- align=center
+|(no number)<ref name="serenade" /><ref>After the [[Serenade No. 9 (Mozart)|"Posthorn" serenade]]</ref>||[[D major]]||{{sort|1=320|2=[[Serenade No. 9 (Mozart)|K. 320]]}}||1779||-<br />{{NMA|107|89|108|57|Symphony, K. 320}}
+|- align=center
+|(no number)<br />(minuet only)||[[C major]]||{{sort|1=383|2=K. 409/383f}}||1782||-<br />{{NMA|113|3|114|5|Symphonic Minuet, K. 409}}
+|}<ref>[http://imslp.org/wiki/Template:Symphonies_(Mozart,_Wolfgang_Amadeus) imslp.org: Symphonies by Wolfgang Amadeus Mozart]</ref><ref>[[Neue Mozart-Ausgabe]]</ref>
