@@ -2,6 +2,8 @@ import os, sys
 from tkinter.filedialog import askdirectory
 from mutagen.mp3 import EasyMP3 as MP3
 
+current_symphony = (' ',' ')
+
 class Symphony(object):
 	def __init__(self, initial_name):
 		# Define stuffs
@@ -32,7 +34,7 @@ class Symphony(object):
 		j = file_name.find(' ', i) 
 		self.k_number = file_name[i:j]
 
-	def set_disc_num(self):
+	def set_disc_track_num(self):
 		with open(starting_directory + 'symphonies.txt') as symphonies_data:
 			for line in symphonies_data:
 				i = line.find('K. ' + self.k_number)
@@ -40,12 +42,18 @@ class Symphony(object):
 					s = line.find('Symphony No. ') + len('Symphony No. ') + 1
 					t = line.find(' ', s + 1)
 					self.disc_num = line[s:t]
+					# Set track number
+					current_symphony.insert(0, self.disc_num)
+					current_symphony = current_symphony[:2]
+					
+					break
 
 	def set_track_num(self):
 		# Calculate using the initial disc number in the metadata
 
+
 	def set_nickname(self):
-		#Look at symphonies.txt for " after <br />, has to be less than 15 characters
+		# Look at symphonies.txt for " after <br />, has to be less than 15 characters
 
 	def set_composer(self):
 		if 'Mozart' in self.initial_name:
@@ -83,8 +91,7 @@ def main():
 		sym.set_album_artist()
 		sym.set_conductor()
 		sym.set_k_number()
-		sym.set_disc_num()
-		sym.set_track_num()
+		sym.set_disc_track_num()
 		sym.set_nickname()
 
 
