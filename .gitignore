@@ -47,3 +47,4 @@ Temporary Items
 .apdisk
 
 # Compiled Python Directory
+__pycache__
