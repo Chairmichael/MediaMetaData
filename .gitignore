@@ -47,4 +47,5 @@ Temporary Items
 .apdisk
 
 # Compiled Python Directory
-__pycache__
+# Old files for reference
+# Large directory of test mp3s
