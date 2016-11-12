@@ -46,6 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Compiled Python Directory
-# Old files for reference
-# Large directory of test mp3s
+__pycache__
+Old
+MozartSymphonies
